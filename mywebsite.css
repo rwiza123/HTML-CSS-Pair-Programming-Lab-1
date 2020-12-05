@@ -1,0 +1,65 @@
+.header {
+    padding: 10px;
+    text-align: left;
+    background: #222;
+    color: orange;
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+
+.profile-img{
+    /* width: 0;
+    height: -200px; 
+    display:inline-block;  */
+    float: left;
+    
+
+}
+
+.paragraph{
+    width: 500px;
+    margin-left:25px;
+    margin-right: auto;
+    margin-top:-25px;
+    
+    display: inline-block;
+  
+}
+
+ .sidebar{
+    /* width: 1000px;
+    height: 700px; */
+    float: right;
+    margin-top:-10px;
+    display: inline-block;
+    background-color: grey;
+    
+       
+} 
+
+h2 {
+    margin-left: 10px;
+}
+
+.parag-widg{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+.main-footer {
+    background-color: #222;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    position:fixed;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+    clear: both;
+
+    
+  }
