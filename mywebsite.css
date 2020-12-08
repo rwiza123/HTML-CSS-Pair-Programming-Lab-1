@@ -27,8 +27,8 @@
 }
 
  .sidebar{
-    /* width: 1000px;
-    height: 700px; */
+    
+    height: 750px;
     float: right;
     margin-top:-10px;
     display: inline-block;
@@ -63,6 +63,5 @@ h2 {
 
     
   }
-
 
   
