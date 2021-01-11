@@ -1,0 +1,81 @@
+.body {
+  background-color: aliceblue;
+}
+div.header {
+  background-color: rgb(32, 27, 27);
+  color: orange;
+  text-align:justify;
+  font-size: 30px;
+  margin-top: -10px;
+}
+
+h2{
+  margin: left;
+  margin-top: 50px;
+  text-align: left;
+}
+
+c.header {
+  padding: 60px;
+  text-align: left;
+  background: #222;
+  color: orange;
+  font-size: 25px;
+}
+.hline { width:100%; height:1px; background: #fff }
+.profile-img {
+  float:left;
+  margin-right: 20px;
+ }
+
+
+
+div.links {
+  margin: left 50px;
+  top: 20px;
+  text-align: start;
+  font-size: 20px;
+  bottom: 0px;
+  
+}
+
+
+ .main-footer {
+  width:100%;
+  background-color: #222;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  height: 100px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+ 
+}
+
+
+.other-widgets {
+  background-color: lightgray;
+}
+
+.paragraph{
+  width: 500px;
+  margin-left:25px;
+  margin-right: auto;
+  margin-top:-25px;
+  display: inline-block;
+}
+
+.sidebar{
+  height: 1750px;
+  
+  margin-top:-10px;
+  display: inline-block;
+  background-color: grey;
+}
+
+.clearfix:: after {
+  content:"" ;
+  display: table;
+
+}
